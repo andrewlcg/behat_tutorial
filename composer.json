@@ -1,0 +1,11 @@
+{
+  "require": {
+    "behat/behat": "2.4.*@stable",
+    "behat/mink-selenium2-driver": "*",
+    "sensiolabs/behat-page-object-extension": "*"
+  },
+    "minimum-stability": "dev",
+    "config": {
+      "bin-dir": "bin/"
+    }
+}
